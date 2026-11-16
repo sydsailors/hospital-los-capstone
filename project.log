@@ -1,0 +1,170 @@
+2026-11-16 16:08:48 | INFO | Capstone | === RUN START ===
+2026-11-16 16:08:48 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 16:08:48 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 16:08:48 | INFO | Capstone | python=3.14.5
+2026-11-16 16:08:48 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 16:08:48 | INFO | Capstone | shell=zsh
+2026-11-16 16:08:48 | INFO | Capstone | cwd=notebooks
+2026-11-16 16:08:48 | INFO | Capstone | github_actions=False
+2026-11-16 16:09:09 | INFO | Capstone | === RUN START ===
+2026-11-16 16:09:09 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 16:09:09 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 16:09:09 | INFO | Capstone | python=3.14.5
+2026-11-16 16:09:09 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 16:09:09 | INFO | Capstone | shell=zsh
+2026-11-16 16:09:09 | INFO | Capstone | cwd=notebooks
+2026-11-16 16:09:09 | INFO | Capstone | github_actions=False
+2026-11-16 16:09:09 | INFO | Capstone | Confirming installation:
+2026-11-16 16:09:09 | INFO | Capstone |   python:       3.14.5
+2026-11-16 16:09:09 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 16:09:09 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 16:09:09 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 16:09:09 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 16:09:09 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 16:11:50 | INFO | Capstone | === RUN START ===
+2026-11-16 16:11:50 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 16:11:50 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 16:11:50 | INFO | Capstone | python=3.14.5
+2026-11-16 16:11:50 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 16:11:50 | INFO | Capstone | shell=zsh
+2026-11-16 16:11:50 | INFO | Capstone | cwd=notebooks
+2026-11-16 16:11:50 | INFO | Capstone | github_actions=False
+2026-11-16 16:11:50 | INFO | Capstone | Confirming installation:
+2026-11-16 16:11:50 | INFO | Capstone |   python:       3.14.5
+2026-11-16 16:11:50 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 16:11:50 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 16:11:50 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 16:11:50 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 16:11:50 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 16:25:23 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:25:23 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:34:49 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:34:49 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:34:49 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-16 16:37:32 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:37:32 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:38:37 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:38:37 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:38:58 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:38:58 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:38:58 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-16 16:38:58 | INFO | Capstone | Predictor shape: (1912, 15)
+2026-11-16 16:38:58 | INFO | Capstone | Target shape: (1912,)
+2026-11-16 16:38:58 | INFO | Capstone | Number of unique patients: 1415
+2026-11-16 16:43:19 | INFO | Capstone | === RUN START ===
+2026-11-16 16:43:19 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 16:43:19 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 16:43:19 | INFO | Capstone | python=3.14.5
+2026-11-16 16:43:19 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 16:43:19 | INFO | Capstone | shell=zsh
+2026-11-16 16:43:19 | INFO | Capstone | cwd=notebooks
+2026-11-16 16:43:19 | INFO | Capstone | github_actions=False
+2026-11-16 16:43:19 | INFO | Capstone | Confirming installation:
+2026-11-16 16:43:19 | INFO | Capstone |   python:       3.14.5
+2026-11-16 16:43:19 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 16:43:19 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 16:43:19 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 16:43:19 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 16:43:19 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 16:43:23 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 16:43:23 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 16:43:23 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-16 16:43:23 | INFO | Capstone | Predictor shape: (1912, 15)
+2026-11-16 16:43:23 | INFO | Capstone | Target shape: (1912,)
+2026-11-16 16:43:23 | INFO | Capstone | Number of unique patients: 1415
+2026-11-16 16:51:35 | INFO | Capstone | Train instances: 1522
+2026-11-16 16:51:35 | INFO | Capstone | Test instances: 390
+2026-11-16 16:51:35 | INFO | Capstone | Patients appearing in both sets: 0
+2026-11-16 17:10:31 | INFO | Capstone | === RUN START ===
+2026-11-16 17:10:31 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 17:10:31 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 17:10:31 | INFO | Capstone | python=3.14.5
+2026-11-16 17:10:31 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 17:10:31 | INFO | Capstone | shell=zsh
+2026-11-16 17:10:31 | INFO | Capstone | cwd=notebooks
+2026-11-16 17:10:31 | INFO | Capstone | github_actions=False
+2026-11-16 17:10:31 | INFO | Capstone | Confirming installation:
+2026-11-16 17:10:31 | INFO | Capstone |   python:       3.14.5
+2026-11-16 17:10:31 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 17:10:31 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 17:10:31 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 17:10:31 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 17:10:31 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 17:10:37 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 17:10:37 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 17:10:37 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-16 17:10:37 | INFO | Capstone | Predictor shape: (1912, 15)
+2026-11-16 17:10:37 | INFO | Capstone | Target shape: (1912,)
+2026-11-16 17:10:37 | INFO | Capstone | Number of unique patients: 1415
+2026-11-16 17:10:40 | INFO | Capstone | Train instances: 1522
+2026-11-16 17:10:40 | INFO | Capstone | Test instances: 390
+2026-11-16 17:10:40 | INFO | Capstone | Patients appearing in both sets: 0
+2026-11-16 17:15:11 | INFO | Capstone | Numerical predictors: 1
+2026-11-16 17:15:11 | INFO | Capstone | Categorical predictors: 14
+2026-11-16 17:15:11 | INFO | Capstone | Preprocessing pipeline created successfully.
+2026-11-16 17:21:46 | INFO | Capstone | Train instances: 1522
+2026-11-16 17:21:46 | INFO | Capstone | Test instances: 390
+2026-11-16 17:21:46 | INFO | Capstone | Patients appearing in both sets: 0
+2026-11-16 17:21:49 | INFO | Capstone | Numerical predictors: 1
+2026-11-16 17:21:49 | INFO | Capstone | Categorical predictors: 14
+2026-11-16 17:21:49 | INFO | Capstone | Preprocessing pipeline created successfully.
+2026-11-16 17:21:58 | INFO | Capstone | Fitting a linear regression model (scikit-learn)
+2026-11-16 17:21:58 | INFO | Capstone | Linear regression model fitted successfully.
+2026-11-16 17:21:58 | INFO | Capstone | Model intercept: 5.6030
+2026-11-16 17:21:58 | INFO | Capstone | Generated predictions for 390 hospital stays.
+2026-11-16 17:23:59 | INFO | Capstone | Linear Regression MAE: 4.025
+2026-11-16 17:23:59 | INFO | Capstone | Linear Regression RMSE: 7.454
+2026-11-16 17:23:59 | INFO | Capstone | Linear Regression R2: 0.007
+2026-11-16 17:27:32 | INFO | Capstone | === RUN START ===
+2026-11-16 17:27:32 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 17:27:32 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 17:27:32 | INFO | Capstone | python=3.14.5
+2026-11-16 17:27:32 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 17:27:32 | INFO | Capstone | shell=zsh
+2026-11-16 17:27:32 | INFO | Capstone | cwd=notebooks
+2026-11-16 17:27:32 | INFO | Capstone | github_actions=False
+2026-11-16 17:27:32 | INFO | Capstone | Confirming installation:
+2026-11-16 17:27:32 | INFO | Capstone |   python:       3.14.5
+2026-11-16 17:27:32 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 17:27:32 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 17:27:32 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 17:27:32 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 17:27:32 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 17:27:39 | INFO | Capstone | === RUN START ===
+2026-11-16 17:27:39 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-16 17:27:39 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-16 17:27:39 | INFO | Capstone | python=3.14.5
+2026-11-16 17:27:39 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-16 17:27:39 | INFO | Capstone | shell=zsh
+2026-11-16 17:27:39 | INFO | Capstone | cwd=notebooks
+2026-11-16 17:27:39 | INFO | Capstone | github_actions=False
+2026-11-16 17:27:39 | INFO | Capstone | Confirming installation:
+2026-11-16 17:27:39 | INFO | Capstone |   python:       3.14.5
+2026-11-16 17:27:39 | INFO | Capstone |   pandas:       3.1.0
+2026-11-16 17:27:39 | INFO | Capstone |   numpy:        2.5.4
+2026-11-16 17:27:39 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-16 17:27:39 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-16 17:27:39 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-16 17:27:39 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-16 17:27:39 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-16 17:27:39 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-16 17:27:39 | INFO | Capstone | Predictor shape: (1912, 15)
+2026-11-16 17:27:39 | INFO | Capstone | Target shape: (1912,)
+2026-11-16 17:27:39 | INFO | Capstone | Number of unique patients: 1415
+2026-11-16 17:27:39 | INFO | Capstone | Train instances: 1522
+2026-11-16 17:27:39 | INFO | Capstone | Test instances: 390
+2026-11-16 17:27:39 | INFO | Capstone | Patients appearing in both sets: 0
+2026-11-16 17:27:39 | INFO | Capstone | Numerical predictors: 1
+2026-11-16 17:27:39 | INFO | Capstone | Categorical predictors: 14
+2026-11-16 17:27:39 | INFO | Capstone | Preprocessing pipeline created successfully.
+2026-11-16 17:27:39 | INFO | Capstone | Fitting a linear regression model (scikit-learn)
+2026-11-16 17:27:39 | INFO | Capstone | Linear regression model fitted successfully.
+2026-11-16 17:27:39 | INFO | Capstone | Model intercept: 5.6030
+2026-11-16 17:27:39 | INFO | Capstone | Generated predictions for 390 hospital stays.
+2026-11-16 17:27:39 | INFO | Capstone | Linear Regression MAE: 4.025
+2026-11-16 17:27:39 | INFO | Capstone | Linear Regression RMSE: 7.454
+2026-11-16 17:27:39 | INFO | Capstone | Linear Regression R2: 0.007
+2026-11-16 17:29:17 | INFO | Capstone | Cross-validating Linear Regression
+2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation MAE: 3.963
+2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation RMSE: 7.918
+2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation R2: 0.016
