@@ -168,3 +168,62 @@
 2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation MAE: 3.963
 2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation RMSE: 7.918
 2026-11-16 17:29:17 | INFO | Capstone | Cross-Validation R2: 0.016
+2026-11-17 11:53:17 | INFO | Capstone | === RUN START ===
+2026-11-17 11:53:17 | INFO | Capstone | project=Predictive Modeling for Hosptial Length of Stay
+2026-11-17 11:53:17 | INFO | Capstone | repo_dir=hospital-los-capstone
+2026-11-17 11:53:17 | INFO | Capstone | python=3.14.5
+2026-11-17 11:53:17 | INFO | Capstone | os=Darwin 20.6.0
+2026-11-17 11:53:17 | INFO | Capstone | shell=zsh
+2026-11-17 11:53:17 | INFO | Capstone | cwd=notebooks
+2026-11-17 11:53:17 | INFO | Capstone | github_actions=False
+2026-11-17 11:53:17 | INFO | Capstone | Confirming installation:
+2026-11-17 11:53:17 | INFO | Capstone |   python:       3.14.5
+2026-11-17 11:53:17 | INFO | Capstone |   pandas:       3.1.0
+2026-11-17 11:53:17 | INFO | Capstone |   numpy:        2.5.4
+2026-11-17 11:53:17 | INFO | Capstone |   scikit-learn: 1.9.1
+2026-11-17 11:53:17 | INFO | Capstone |   seaborn:      0.13.2
+2026-11-17 11:53:17 | INFO | Capstone |   matplotlib:   3.11.2
+2026-11-17 11:53:17 | INFO | Capstone | Loading dataset: Hospital Length of Stay
+2026-11-17 11:53:17 | INFO | Capstone | Loaded: 1912 rows (instances), 20 columns
+2026-11-17 11:53:17 | INFO | Capstone | Dataset shape: (1912, 20)
+2026-11-17 11:53:17 | INFO | Capstone | Predictor shape: (1912, 15)
+2026-11-17 11:53:17 | INFO | Capstone | Target shape: (1912,)
+2026-11-17 11:53:17 | INFO | Capstone | Number of unique patients: 1415
+2026-11-17 11:53:18 | INFO | Capstone | Train instances: 1522
+2026-11-17 11:53:18 | INFO | Capstone | Test instances: 390
+2026-11-17 11:53:18 | INFO | Capstone | Patients appearing in both sets: 0
+2026-11-17 11:53:18 | INFO | Capstone | Numerical predictors: 1
+2026-11-17 11:53:18 | INFO | Capstone | Categorical predictors: 14
+2026-11-17 11:53:18 | INFO | Capstone | Preprocessing pipeline created successfully.
+2026-11-17 11:53:18 | INFO | Capstone | Fitting a linear regression model (scikit-learn)
+2026-11-17 11:53:18 | INFO | Capstone | Linear regression model fitted successfully.
+2026-11-17 11:53:18 | INFO | Capstone | Model intercept: 5.6030
+2026-11-17 11:53:18 | INFO | Capstone | Generated predictions for 390 hospital stays.
+2026-11-17 11:53:18 | INFO | Capstone | Linear Regression MAE: 4.025
+2026-11-17 11:53:18 | INFO | Capstone | Linear Regression RMSE: 7.454
+2026-11-17 11:53:18 | INFO | Capstone | Linear Regression R2: 0.007
+2026-11-17 11:53:18 | INFO | Capstone | Cross-validating Linear Regression
+2026-11-17 11:53:19 | INFO | Capstone | Cross-Validation MAE: 3.963
+2026-11-17 11:53:19 | INFO | Capstone | Cross-Validation RMSE: 7.918
+2026-11-17 11:53:19 | INFO | Capstone | Cross-Validation R2: 0.016
+2026-11-17 12:47:18 | INFO | Capstone | Fitting Decision Tree Regression
+2026-11-17 12:47:18 | INFO | Capstone | Decision Tree fitted successfully.
+2026-11-17 12:47:18 | INFO | Capstone | Cross-validating Decision Tree Regression
+2026-11-17 12:47:19 | INFO | Capstone | Decision Tree CV MAE: 3.925
+2026-11-17 12:47:19 | INFO | Capstone | Decision Tree CV RMSE: 8.761
+2026-11-17 12:47:19 | INFO | Capstone | Decision Tree CV R2: -0.223
+2026-11-17 13:16:14 | INFO | Capstone | Comparing regression models
+2026-11-17 13:16:15 | INFO | Capstone | Model comparison completed.
+2026-11-17 13:20:57 | INFO | Capstone | Creating actual vs. predicted visualization
+2026-11-17 13:20:59 | INFO | Capstone | Actual vs. predicted visualization completed.
+2026-11-17 13:42:38 | INFO | Capstone | Creating residual plot
+2026-11-17 13:42:38 | INFO | Capstone | Residual analysis completed.
+2026-11-17 14:00:54 | INFO | Capstone | Creating actual vs. predicted visualization
+2026-11-17 14:00:55 | INFO | Capstone | Actual vs. predicted visualization completed.
+2026-11-17 14:01:42 | INFO | Capstone | Creating actual vs. predicted visualization
+2026-11-17 14:03:11 | INFO | Capstone | Creating actual vs. predicted visualization
+2026-11-17 14:03:12 | INFO | Capstone | Actual vs. predicted visualization completed.
+2026-11-17 14:06:24 | INFO | Capstone | Creating residual plot
+2026-11-17 14:06:25 | INFO | Capstone | Residual analysis completed.
+2026-11-17 14:06:50 | INFO | Capstone | Comparing regression models
+2026-11-17 14:06:50 | INFO | Capstone | Model comparison completed.
